@@ -8,4 +8,6 @@ Its an interesting project that I found quite rewarding and shows that you can c
 
 It is based on Pthreads and is not GPU based.
 
+g++ -o xor_ga xor_ga.cc -lpthread
+
 Could be a useful tool. Or used as a resource for buillding something similar.
