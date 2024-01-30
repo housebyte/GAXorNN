@@ -1,0 +1,864 @@
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00511744Action=6Bellman=4.45
+Found a winner
+Q value=0.00511744 Action=6
+Output net :
+Q value=0.00604586Action=5Bellman=5
+Found a winner
+Q value=0.00604586 Action=5
+Output net :
+Q value=0.00598253Action=4Bellman=4.45
+Output net :
+Q value=0.00521306Action=3Bellman=-100
+Output net :
+Q value=0.00449608Action=2Bellman=-100
+Output net :
+Q value=0.00531655Action=1Bellman=4.45
+Output net :
+Q value=0.00400284Action=0Bellman=-100
+**-----Final winner for state ----**5 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00480504Action=6Bellman=-100
+Found a winner
+Q value=0.00480504 Action=6
+Output net :
+Q value=0.00497412Action=5Bellman=5
+Found a winner
+Q value=0.00497412 Action=5
+Output net :
+Q value=0.00505168Action=4Bellman=-100
+Found a winner
+Q value=0.00505168 Action=4
+Output net :
+Q value=0.0053324Action=3Bellman=4.01
+Found a winner
+Q value=0.0053324 Action=3
+Output net :
+Q value=0.00484082Action=2Bellman=-100
+Output net :
+Q value=0.00454701Action=1Bellman=-100
+Output net :
+Q value=0.00518534Action=0Bellman=-100
+**-----Final winner for state ----**4 =3
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00603218Action=6Bellman=-99.9969
+Found a winner
+Q value=0.00603218 Action=6
+Output net :
+Q value=0.00577357Action=5Bellman=5
+Output net :
+Q value=0.00654941Action=4Bellman=4.44759
+Found a winner
+Q value=0.00654941 Action=4
+Output net :
+Q value=0.00618836Action=3Bellman=-99.6094
+Output net :
+Q value=0.0062166Action=2Bellman=-96.875
+Output net :
+Q value=0.00594931Action=1Bellman=4.44999
+Output net :
+Q value=0.00532227Action=0Bellman=-99.6094
+**-----Final winner for state ----**6 =4
+Output net :
+Q value=0.00480504Action=6Bellman=-100
+Found a winner
+Q value=0.00480504 Action=6
+Output net :
+Q value=0.00497412Action=5Bellman=5
+Found a winner
+Q value=0.00497412 Action=5
+Output net :
+Q value=0.00505168Action=4Bellman=-100
+Found a winner
+Q value=0.00505168 Action=4
+Output net :
+Q value=0.0053324Action=3Bellman=4.01
+Found a winner
+Q value=0.0053324 Action=3
+Output net :
+Q value=0.00484082Action=2Bellman=-100
+Output net :
+Q value=0.00454701Action=1Bellman=-100
+Output net :
+Q value=0.00518534Action=0Bellman=-100
+**-----Final winner for state ----**4 =3
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00511744Action=6Bellman=4.45
+Found a winner
+Q value=0.00511744 Action=6
+Output net :
+Q value=0.00604586Action=5Bellman=5
+Found a winner
+Q value=0.00604586 Action=5
+Output net :
+Q value=0.00598253Action=4Bellman=4.45
+Output net :
+Q value=0.00521306Action=3Bellman=-100
+Output net :
+Q value=0.00449608Action=2Bellman=-100
+Output net :
+Q value=0.00531655Action=1Bellman=4.45
+Output net :
+Q value=0.00400284Action=0Bellman=-100
+**-----Final winner for state ----**5 =5
+Output net :
+Q value=0.00493439Action=6Bellman=5
+Found a winner
+Q value=0.00493439 Action=6
+Output net :
+Q value=0.00589326Action=5Bellman=-100
+Found a winner
+Q value=0.00589326 Action=5
+Output net :
+Q value=0.00588167Action=4Bellman=-100
+Output net :
+Q value=0.00426513Action=3Bellman=3.97245
+Output net :
+Q value=0.00435611Action=2Bellman=-99.9023
+Output net :
+Q value=0.00578186Action=1Bellman=-100
+Output net :
+Q value=0.00391088Action=0Bellman=-99.9512
+**-----Final winner for state ----**2 =5
+Output net :
+Q value=0.00480504Action=6Bellman=-100
+Found a winner
+Q value=0.00480504 Action=6
+Output net :
+Q value=0.00497412Action=5Bellman=5
+Found a winner
+Q value=0.00497412 Action=5
+Output net :
+Q value=0.00505168Action=4Bellman=-100
+Found a winner
+Q value=0.00505168 Action=4
+Output net :
+Q value=0.0053324Action=3Bellman=4.01
+Found a winner
+Q value=0.0053324 Action=3
+Output net :
+Q value=0.00484082Action=2Bellman=-100
+Output net :
+Q value=0.00454701Action=1Bellman=-100
+Output net :
+Q value=0.00518534Action=0Bellman=-100
+**-----Final winner for state ----**4 =3
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
+Output net :
+Q value=0.00353661Action=6Bellman=4.44529
+Found a winner
+Q value=0.00353661 Action=6
+Output net :
+Q value=0.00370349Action=5Bellman=-100
+Found a winner
+Q value=0.00370349 Action=5
+Output net :
+Q value=0.00359087Action=4Bellman=4.43257
+Output net :
+Q value=0.00366483Action=3Bellman=-100
+Output net :
+Q value=0.00316116Action=2Bellman=-99.9999
+Output net :
+Q value=0.00334712Action=1Bellman=-100
+Output net :
+Q value=0.00312672Action=0Bellman=-99.9023
+**-----Final winner for state ----**0 =5
+Output net :
+Q value=0.00603218Action=6Bellman=-99.9969
+Found a winner
+Q value=0.00603218 Action=6
+Output net :
+Q value=0.00577357Action=5Bellman=5
+Output net :
+Q value=0.00654941Action=4Bellman=4.44759
+Found a winner
+Q value=0.00654941 Action=4
+Output net :
+Q value=0.00618836Action=3Bellman=-99.6094
+Output net :
+Q value=0.0062166Action=2Bellman=-96.875
+Output net :
+Q value=0.00594931Action=1Bellman=4.44999
+Output net :
+Q value=0.00532227Action=0Bellman=-99.6094
+**-----Final winner for state ----**6 =4
+Output net :
+Q value=0.00480504Action=6Bellman=-100
+Found a winner
+Q value=0.00480504 Action=6
+Output net :
+Q value=0.00497412Action=5Bellman=5
+Found a winner
+Q value=0.00497412 Action=5
+Output net :
+Q value=0.00505168Action=4Bellman=-100
+Found a winner
+Q value=0.00505168 Action=4
+Output net :
+Q value=0.0053324Action=3Bellman=4.01
+Found a winner
+Q value=0.0053324 Action=3
+Output net :
+Q value=0.00484082Action=2Bellman=-100
+Output net :
+Q value=0.00454701Action=1Bellman=-100
+Output net :
+Q value=0.00518534Action=0Bellman=-100
+**-----Final winner for state ----**4 =3
+Output net :
+Q value=0.00458367Action=6Bellman=-100
+Found a winner
+Q value=0.00458367 Action=6
+Output net :
+Q value=0.00453312Action=5Bellman=-100
+Output net :
+Q value=0.00564959Action=4Bellman=4.45
+Found a winner
+Q value=0.00564959 Action=4
+Output net :
+Q value=0.00401199Action=3Bellman=-100
+Output net :
+Q value=0.00448963Action=2Bellman=-100
+Output net :
+Q value=0.00576224Action=1Bellman=4.45
+Found a winner
+Q value=0.00576224 Action=1
+Output net :
+Q value=0.00420319Action=0Bellman=-100
+**-----Final winner for state ----**3 =1
+Output net :
+Q value=0.00476002Action=6Bellman=-100
+Found a winner
+Q value=0.00476002 Action=6
+Output net :
+Q value=0.00614039Action=5Bellman=5
+Found a winner
+Q value=0.00614039 Action=5
+Output net :
+Q value=0.00426679Action=4Bellman=-100
+Output net :
+Q value=0.00383207Action=3Bellman=4.00987
+Output net :
+Q value=0.00330665Action=2Bellman=-100
+Output net :
+Q value=0.00420332Action=1Bellman=-100
+Output net :
+Q value=0.00331306Action=0Bellman=-99.9985
+**-----Final winner for state ----**1 =5
