@@ -1,2 +1,0 @@
-set xrange [0:32000];plot "errfile.dat" with lines;pause -1;
-
